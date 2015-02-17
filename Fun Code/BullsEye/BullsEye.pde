@@ -19,7 +19,7 @@ void draw(){
      else
        fill(255);
 
-  ellipse(width/2, height/2, i*band_width, i*band_width);  
+    ellipse(width/2, height/2, i*band_width, i*band_width);  
 }
   
   
